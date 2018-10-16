@@ -4146,5 +4146,6 @@
     "Entity Type can't be changed on existing entity permissions": "Entity Type can't be changed on existing entity permissions",
     "Entity Id can't be changed on existing entity permissions": "Entity Id can't be changed on existing entity permissions",
     "Entity Id": "Entity Id",
-    "{releaseKind} assignment to {teamIterationKind} is currently inactive in account configuration": "{releaseKind} assignment to {teamIterationKind} is currently inactive in account configuration"
+    "{releaseKind} assignment to {teamIterationKind} is currently inactive in account configuration": "{releaseKind} assignment to {teamIterationKind} is currently inactive in account configuration",
+    "Practice '{practice}' is not available in process '{processName}'": "Practice '{practice}' is not available in process '{processName}'"
 }
