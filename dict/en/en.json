@@ -4147,5 +4147,7 @@
     "Entity Id can't be changed on existing entity permissions": "Entity Id can't be changed on existing entity permissions",
     "Entity Id": "Entity Id",
     "{releaseKind} assignment to {teamIterationKind} is currently inactive in account configuration": "{releaseKind} assignment to {teamIterationKind} is currently inactive in account configuration",
-    "Practice '{practice}' is not available in process '{processName}'": "Practice '{practice}' is not available in process '{processName}'"
+    "Practice '{practice}' is not available in process '{processName}'": "Practice '{practice}' is not available in process '{processName}'",
+    "{release} \"{releaseName}\" needs to be assigned to {projectsCount, plural, =1 {{project}} other {{projects}}} {missingProjectsString}.": "{release} \"{releaseName}\" needs to be assigned to {projectsCount, plural, =1 {{project}} other {{projects}}} {missingProjectsString}.",
+    "{releaseTerm} {releaseText} is now assigned to {projectsCount, plural, =1 {{projectTerm} {projectsText}} other {{projectsTerm} {projectsText}}}.": "{releaseTerm} {releaseText} is now assigned to {projectsCount, plural, =1 {{projectTerm} {projectsText}} other {{projectsTerm} {projectsText}}}."
 }
