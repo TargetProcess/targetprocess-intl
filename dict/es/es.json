@@ -4152,5 +4152,6 @@
     "{releaseTerm} {releaseText} is now assigned to {projectsCount, plural, =1 {{projectTerm} {projectsText}} other {{projectsTerm} {projectsText}}}.": "{releaseTerm} {releaseText} is now assigned to {projectsCount, plural, =1 {{projectTerm} {projectsText}} other {{projectsTerm} {projectsText}}}.",
     "Invalid string representation of byte array, expected even length": "Invalid string representation of byte array, expected even length",
     "Invalid hex representation of byte, expected 2 chars in [0-9A-E] range": "Invalid hex representation of byte, expected 2 chars in [0-9A-E] range",
-    "No {releaseTerm}": "No {releaseTerm}"
+    "No {releaseTerm}": "No {releaseTerm}",
+    "Is Changed Portfolio Epic": "Is Changed Portfolio Epic"
 }
