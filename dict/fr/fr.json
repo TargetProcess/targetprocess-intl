@@ -4153,5 +4153,7 @@
     "Invalid string representation of byte array, expected even length": "Invalid string representation of byte array, expected even length",
     "Invalid hex representation of byte, expected 2 chars in [0-9A-E] range": "Invalid hex representation of byte, expected 2 chars in [0-9A-E] range",
     "No {releaseTerm}": "No {releaseTerm}",
-    "Is Changed Portfolio Epic": "Is Changed Portfolio Epic"
+    "Is Changed Portfolio Epic": "Is Changed Portfolio Epic",
+    "{type} has inherited link to {product}": "{type} has inherited link to {product}",
+    "{type} has it's own link to {product}": "{type} has it's own link to {product}"
 }
