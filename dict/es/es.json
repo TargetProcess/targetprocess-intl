@@ -4208,5 +4208,6 @@
     "Are you sure you want to remove Team '{teamName}' from this {project}? All the current assignments for '{teamName}' Team in the {project} will be removed and this action cannot be reverted.": "Are you sure you want to remove Team '{teamName}' from this {project}? All the current assignments for '{teamName}' Team in the {project} will be removed and this action cannot be reverted.",
     "Unassign {project} from this Team?": "Unassign {project} from this Team?",
     "Are you sure you want to remove {project} '{projectName}' from this Team? All the current assignments for this Team in the '{projectName}' {project} will be removed and this action cannot be reverted.": "Are you sure you want to remove {project} '{projectName}' from this Team? All the current assignments for this Team in the '{projectName}' {project} will be removed and this action cannot be reverted.",
-    "There are no people in this Team": "There are no people in this Team"
+    "There are no people in this Team": "There are no people in this Team",
+    "Generate and send password": "Generate and send password"
 }
