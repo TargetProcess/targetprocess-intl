@@ -4209,5 +4209,8 @@
     "Unassign {project} from this Team?": "Unassign {project} from this Team?",
     "Are you sure you want to remove {project} '{projectName}' from this Team? All the current assignments for this Team in the '{projectName}' {project} will be removed and this action cannot be reverted.": "Are you sure you want to remove {project} '{projectName}' from this Team? All the current assignments for this Team in the '{projectName}' {project} will be removed and this action cannot be reverted.",
     "There are no people in this Team": "There are no people in this Team",
-    "Generate and send password": "Generate and send password"
+    "Generate and send password": "Generate and send password",
+    "There is no custom field of matching type named '{customFieldName}' for {entityTypeList}{inProcess}": "There is no custom field of matching type named '{customFieldName}' for {entityTypeList}{inProcess}",
+    "Custom field '{customFieldName}' is defined as calculated for {entityTypeList}{inProcess}. Only regular custom fields are supported as formula targets.": "Custom field '{customFieldName}' is defined as calculated for {entityTypeList}{inProcess}. Only regular custom fields are supported as formula targets.",
+    "Open full list": "Open full list"
 }
