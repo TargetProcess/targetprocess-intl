@@ -4212,5 +4212,10 @@
     "Generate and send password": "Generate and send password",
     "There is no custom field of matching type named '{customFieldName}' for {entityTypeList}{inProcess}": "There is no custom field of matching type named '{customFieldName}' for {entityTypeList}{inProcess}",
     "Custom field '{customFieldName}' is defined as calculated for {entityTypeList}{inProcess}. Only regular custom fields are supported as formula targets.": "Custom field '{customFieldName}' is defined as calculated for {entityTypeList}{inProcess}. Only regular custom fields are supported as formula targets.",
-    "Open full list": "Open full list"
+    "Open full list": "Open full list",
+    "Portfolio Epic Simple History": "Portfolio Epic Simple History",
+    "Portfolio Epic Simple Histories": "Portfolio Epic Simple Histories",
+    "Portfolio Epic History": "Portfolio Epic History",
+    "Portfolio Epic Histories": "Portfolio Epic Histories",
+    "Current Portfolio Epic": "Current Portfolio Epic"
 }
