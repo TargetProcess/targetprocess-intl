@@ -4218,5 +4218,7 @@
     "Portfolio Epic History": "Portfolio Epic History",
     "Portfolio Epic Histories": "Portfolio Epic Histories",
     "Current Portfolio Epic": "Current Portfolio Epic",
-    "Capacity:": "Capacity:"
+    "Capacity:": "Capacity:",
+    "The changes you've made in the last {throttleWaitTime} {throttleWaitTime, plural, one {second} other {seconds}} can't be saved because the description was just modified by <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"{userLink}\">{user}</a>.": "The changes you've made in the last {throttleWaitTime} {throttleWaitTime, plural, one {second} other {seconds}} can't be saved because the description was just modified by <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"{userLink}\">{user}</a>.",
+    "Please, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"{url}\">open the modified description in a new tab</a> to edit it.": "Please, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"{url}\">open the modified description in a new tab</a> to edit it."
 }
