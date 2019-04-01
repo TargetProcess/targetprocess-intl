@@ -2972,7 +2972,7 @@
     "Skip": "Пропустить",
     "Sorry, there is nothing to show here.": "Нет данных для отображения.",
     "You have no rights to add new items in the current Project/Team context. You can change the context in <span class=\"i-role-select-context-link\">the settings</span>.": "У вас недостаточно прав для добавления новых сущностей в текущем контексте «проекты-команды». Контекст можно изменить в <span class=\"i-role-select-context-link\">настройках</span>.",
-    "All {entityTypesCount} items": "All {entityTypesCount} items",
+    "All {entityTypesCount} items": "Фильтр…",
     "No teams have been selected from the project and team selector.": "В контекст-селекторе не выбраны команды.",
     "Edit {cardsCount} selected items": "Редактировать {cardsCount} {cardsCount, plural, few {выбранные сущности} other {выбранных сущностей}}",
     "Are you sure you want to delete {cardsCount} {cardsCount, plural, one {item} other {items}}?": "Вы уверены, что хотите удалить {cardsCount} {cardsCount, plural, one {сущность} few {сущности} many {сущностей} other {сущностей}}?",
