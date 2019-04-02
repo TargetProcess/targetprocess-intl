@@ -14,9 +14,9 @@
     "name": "French",
     "stats": {
       "totalTokensCount": 4636,
-      "translatedTokensCount": 4124,
-      "reviewedTokensCount": 4070,
-      "translatedWordsCount": 23964
+      "translatedTokensCount": 4243,
+      "reviewedTokensCount": 4113,
+      "translatedWordsCount": 24494
     }
   },
   {
@@ -24,9 +24,9 @@
     "name": "German",
     "stats": {
       "totalTokensCount": 4636,
-      "translatedTokensCount": 4159,
-      "reviewedTokensCount": 4107,
-      "translatedWordsCount": 24148
+      "translatedTokensCount": 4287,
+      "reviewedTokensCount": 4147,
+      "translatedWordsCount": 24712
     }
   },
   {
@@ -34,9 +34,9 @@
     "name": "Portuguese (Brazil)",
     "stats": {
       "totalTokensCount": 4636,
-      "translatedTokensCount": 4132,
-      "reviewedTokensCount": 4028,
-      "translatedWordsCount": 24001
+      "translatedTokensCount": 4257,
+      "reviewedTokensCount": 4068,
+      "translatedWordsCount": 24571
     }
   },
   {
@@ -44,9 +44,9 @@
     "name": "Russian",
     "stats": {
       "totalTokensCount": 4636,
-      "translatedTokensCount": 3930,
+      "translatedTokensCount": 3983,
       "reviewedTokensCount": 3663,
-      "translatedWordsCount": 21002
+      "translatedWordsCount": 21671
     }
   },
   {
