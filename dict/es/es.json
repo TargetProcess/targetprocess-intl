@@ -4244,5 +4244,8 @@
     "Last Comment": "Last Comment",
     "Owner Name": "Owner Name",
     "Create Team": "Create Team",
-    "Extendable Domain": "Extendable Domain"
+    "Extendable Domain": "Extendable Domain",
+    "Extendable Domain Entity ID": "Extendable Domain Entity ID",
+    "Extendable Domain Entity": "Extendable Domain Entity",
+    "Extendable Domain Entities": "Extendable Domain Entities"
 }
