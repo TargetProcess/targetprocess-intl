@@ -4248,5 +4248,6 @@
     "Extendable Domain Entity ID": "Extendable Domain Entity ID",
     "Extendable Domain Entity": "Extendable Domain Entity",
     "Extendable Domain Entities": "Extendable Domain Entities",
-    "{entityTerm} duplicates": "{entityTerm} duplicates"
+    "{entityTerm} duplicates": "{entityTerm} duplicates",
+    "Select teams": "Select teams"
 }
