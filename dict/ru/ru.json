@@ -4249,5 +4249,9 @@
     "Extendable Domain Entity": "Extendable Domain Entity",
     "Extendable Domain Entities": "Extendable Domain Entities",
     "{entityTerm} duplicates": "{entityTerm} duplicates",
-    "Select teams": "Select teams"
+    "Select teams": "Select teams",
+    "Possible Allocation Ranges": "Possible Allocation Ranges",
+    "Enter URL": "Enter URL",
+    "Enter URL description": "Enter URL description",
+    "Select": "Select"
 }
