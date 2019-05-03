@@ -4253,5 +4253,6 @@
     "Possible Allocation Ranges": "Possible Allocation Ranges",
     "Enter URL": "Enter URL",
     "Enter URL description": "Enter URL description",
-    "Select": "Select"
+    "Select": "Select",
+    "No {AxisResourceName}": "No {AxisResourceName}"
 }
