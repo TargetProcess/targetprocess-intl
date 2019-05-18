@@ -4256,5 +4256,6 @@
     "Select": "Выбрать",
     "No {AxisResourceName}": "No {AxisResourceName}",
     "Either state kind or state name should be specified, but not both": "Either state kind or state name should be specified, but not both",
-    "Is Global": "Is Global"
+    "Is Global": "Is Global",
+    "No {axisResourceName}": "No {axisResourceName}"
 }
