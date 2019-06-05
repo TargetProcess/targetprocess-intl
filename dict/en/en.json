@@ -4259,5 +4259,9 @@
     "Is Global": "Is Global",
     "No {axisResourceName}": "No {axisResourceName}",
     "No such items found": "No such items found",
-    "Failed to export the view as CSV. Please ask Support to disable CsvExportViaBlob feature and retry.": "Failed to export the view as CSV. Please ask Support to disable CsvExportViaBlob feature and retry."
+    "Failed to export the view as CSV. Please ask Support to disable CsvExportViaBlob feature and retry.": "Failed to export the view as CSV. Please ask Support to disable CsvExportViaBlob feature and retry.",
+    "Unable to update custom field {fieldName}. {entityKind} #{entityId} not found.": "Unable to update custom field {fieldName}. {entityKind} #{entityId} not found.",
+    "Unknown": "Unknown",
+    "Unknown entity": "Unknown entity",
+    "Unable to update custom field {customFieldName}. Entity Type {badEntityTypeName} is not an allowed value.": "Unable to update custom field {customFieldName}. Entity Type {badEntityTypeName} is not an allowed value."
 }
