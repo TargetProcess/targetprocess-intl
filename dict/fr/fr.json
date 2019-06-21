@@ -4263,5 +4263,6 @@
     "Unable to update custom field {fieldName}. {entityKind} #{entityId} not found.": "Unable to update custom field {fieldName}. {entityKind} #{entityId} not found.",
     "Unknown": "Unknown",
     "Unknown entity": "Unknown entity",
-    "Unable to update custom field {customFieldName}. Entity Type {badEntityTypeName} is not an allowed value.": "Unable to update custom field {customFieldName}. Entity Type {badEntityTypeName} is not an allowed value."
+    "Unable to update custom field {customFieldName}. Entity Type {badEntityTypeName} is not an allowed value.": "Unable to update custom field {customFieldName}. Entity Type {badEntityTypeName} is not an allowed value.",
+    "Rich Editor": "Rich Editor"
 }
