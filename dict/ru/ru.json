@@ -4264,5 +4264,22 @@
     "Unknown": "Unknown",
     "Unknown entity": "Unknown entity",
     "Unable to update custom field {customFieldName}. Entity Type {badEntityTypeName} is not an allowed value.": "Unable to update custom field {customFieldName}. Entity Type {badEntityTypeName} is not an allowed value.",
-    "Rich Editor": "Rich Editor"
+    "Rich Editor": "Rich Editor",
+    "Half Year": "Half Year",
+    "Half-year": "Half-year",
+    "Current ({date})": "Current ({date})",
+    "Relation was added": "Relation was added",
+    "Related as": "Related as",
+    "your account settings": "your account settings",
+    "Now you can choose your editor type in {accountSettings}": "Now you can choose your editor type in {accountSettings}",
+    "Unable to load token list": "Unable to load token list",
+    "Loading token list...": "Loading token list...",
+    "A name to remind you where this token will be used": "A name to remind you where this token will be used",
+    "Are you sure you want to remove this access token?": "Are you sure you want to remove this access token?",
+    "Just now": "Just now",
+    "Add token": "Add token",
+    "There are no issued tokens yet.": "There are no issued tokens yet.",
+    "Issued": "Issued",
+    "Last used": "Last used",
+    "Select related entity": "Select related entity"
 }
