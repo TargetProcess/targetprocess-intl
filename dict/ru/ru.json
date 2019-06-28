@@ -4281,5 +4281,8 @@
     "There are no issued tokens yet.": "There are no issued tokens yet.",
     "Issued": "Issued",
     "Last used": "Last used",
-    "Select related entity": "Select related entity"
+    "Select related entity": "Select related entity",
+    "Extendable Domain Assignable Entity ID": "Extendable Domain Assignable Entity ID",
+    "Extendable Domain Assignable Entity": "Extendable Domain Assignable Entity",
+    "Extendable Domain Assignable Entities": "Extendable Domain Assignable Entities"
 }
