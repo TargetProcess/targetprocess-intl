@@ -4284,5 +4284,7 @@
     "Select related entity": "Select related entity",
     "Extendable Domain Assignable Entity ID": "Extendable Domain Assignable Entity ID",
     "Extendable Domain Assignable Entity": "Extendable Domain Assignable Entity",
-    "Extendable Domain Assignable Entities": "Extendable Domain Assignable Entities"
+    "Extendable Domain Assignable Entities": "Extendable Domain Assignable Entities",
+    "Milestone cannot be assigned to {entityType} via Milestone property": "Milestone cannot be assigned to {entityType} via Milestone property",
+    "Entity of {entityType} type cannot be linked to Milestone via Generals collection.": "Entity of {entityType} type cannot be linked to Milestone via Generals collection."
 }
