@@ -3727,7 +3727,7 @@
     "Set {projects} and teams": "Выберите {projects} и Команды",
     "Copy to {project}…": "Копировать в {project}…",
     "Assign to {projects}": "Назначить на {projects}",
-    "All {projects}": "All {projects}",
+    "All {projects}": "Все {projects}",
     "{project} Members": "{project} Members",
     "The configuration of this view is no longer supported. {project} Members have been replaced by User Allocations.": "The configuration of this view is no longer supported. {project} Members have been replaced by User Allocations.",
     "Create a new view with user allocations as cards to manage people allocations on {projects}.": "Create a new view with user allocations as cards to manage people allocations on {projects}.",
