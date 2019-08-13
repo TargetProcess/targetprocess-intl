@@ -1,5 +1,15 @@
 [
   {
+    "code": "bs",
+    "name": "Bosnian",
+    "stats": {
+      "totalTokensCount": 4792,
+      "translatedTokensCount": 1,
+      "reviewedTokensCount": 1,
+      "translatedWordsCount": 2
+    }
+  },
+  {
     "code": "en",
     "name": "English",
     "stats": {
@@ -54,9 +64,9 @@
     "name": "Russian",
     "stats": {
       "totalTokensCount": 4792,
-      "translatedTokensCount": 4144,
-      "reviewedTokensCount": 3894,
-      "translatedWordsCount": 22896
+      "translatedTokensCount": 4145,
+      "reviewedTokensCount": 3895,
+      "translatedWordsCount": 22898
     }
   },
   {
