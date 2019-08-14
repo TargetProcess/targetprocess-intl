@@ -70,6 +70,16 @@
     }
   },
   {
+    "code": "sl",
+    "name": "Slovenian",
+    "stats": {
+      "totalTokensCount": 4792,
+      "translatedTokensCount": 61,
+      "reviewedTokensCount": 3,
+      "translatedWordsCount": 137
+    }
+  },
+  {
     "code": "es",
     "name": "Spanish",
     "stats": {
