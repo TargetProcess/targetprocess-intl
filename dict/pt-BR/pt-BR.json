@@ -4301,5 +4301,7 @@
     "New Miro Board": "New Miro Board",
     "Only this {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}} } will be removed. The data will remain safe.": "Only this {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}} } will be removed. The data will remain safe.",
     "Do you really want to remove this {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}} }?": "Do you really want to remove this {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}} }?",
-    "Remove {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}} }": "Remove {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}} }"
+    "Remove {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}} }": "Remove {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}} }",
+    "{projectsCount} {projectsCount, plural, =1 {{project}} other {{projects}}}": "{projectsCount} {projectsCount, plural, =1 {{project}} other {{projects}}}",
+    "projects": "projects"
 }
