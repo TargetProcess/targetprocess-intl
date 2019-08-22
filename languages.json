@@ -1,15 +1,5 @@
 [
   {
-    "code": "bs",
-    "name": "Bosnian",
-    "stats": {
-      "totalTokensCount": 4794,
-      "translatedTokensCount": 7,
-      "reviewedTokensCount": 2,
-      "translatedWordsCount": 17
-    }
-  },
-  {
     "code": "en",
     "name": "English",
     "stats": {
@@ -45,7 +35,7 @@
     "stats": {
       "totalTokensCount": 4794,
       "translatedTokensCount": 4780,
-      "reviewedTokensCount": 4291,
+      "reviewedTokensCount": 4780,
       "translatedWordsCount": 27075
     }
   },
@@ -67,16 +57,6 @@
       "translatedTokensCount": 4146,
       "reviewedTokensCount": 3896,
       "translatedWordsCount": 22900
-    }
-  },
-  {
-    "code": "sl",
-    "name": "Slovenian",
-    "stats": {
-      "totalTokensCount": 4794,
-      "translatedTokensCount": 114,
-      "reviewedTokensCount": 3,
-      "translatedWordsCount": 306
     }
   },
   {
