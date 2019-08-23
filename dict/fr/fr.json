@@ -4303,5 +4303,8 @@
     "Do you really want to remove this {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}} }?": "Do you really want to remove this {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}} }?",
     "Remove {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}} }": "Remove {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}} }",
     "{projectsCount} {projectsCount, plural, =1 {{project}} other {{projects}}}": "{projectsCount} {projectsCount, plural, =1 {{project}} other {{projects}}}",
-    "projects": "projects"
+    "projects": "projects",
+    "Select {projects}": "Select {projects}",
+    "Select a milestone color": "Select a milestone color",
+    "Enter Milestone name here": "Enter Milestone name here"
 }
