@@ -4306,5 +4306,8 @@
     "projects": "projects",
     "Select {projects}": "Select {projects}",
     "Select a milestone color": "Select a milestone color",
-    "Enter Milestone name here": "Enter Milestone name here"
+    "Enter Milestone name here": "Enter Milestone name here",
+    "Milestone should be assigned to one project at least.": "Milestone should be assigned to one project at least.",
+    "No Milestone": "No Milestone",
+    "Linked entities": "Linked entities"
 }
