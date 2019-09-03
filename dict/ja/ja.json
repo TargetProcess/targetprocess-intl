@@ -4309,5 +4309,20 @@
     "Enter Milestone name here": "Enter Milestone name here",
     "Milestone should be assigned to one project at least.": "Milestone should be assigned to one project at least.",
     "No Milestone": "No Milestone",
-    "Linked entities": "Linked entities"
+    "Linked entities": "Linked entities",
+    "Integrations": "Integrations",
+    "Unable to delete profile": "Unable to delete profile",
+    "Unable to add profile": "Unable to add profile",
+    "Unable to save profile": "Unable to save profile",
+    "All integrated information will be removed. Are you sure?": "All integrated information will be removed. Are you sure?",
+    "Yes": "Yes",
+    "Delete profile?": "Delete profile?",
+    "Unable to load profiles for {tool}": "Unable to load profiles for {tool}",
+    "Create new {newItemType, select, group {Folder} board {Board} list {List} timeline {Roadmap} oneByOne {One-by-one view} report {Report} dashboard {Dashboard}} inside the current Folder": "Create new {newItemType, select, group {Folder} board {Board} list {List} timeline {Roadmap} oneByOne {One-by-one view} report {Report} dashboard {Dashboard}} inside the current Folder",
+    "Roadmap": "Roadmap",
+    "{newItemType, select, board {Board} list {List} timeline {Roadmap} oneByOne {One-by-one view} group {Folder} report {Report} dashboard {Dashboard} other {{newItemType}} }": "{newItemType, select, board {Board} list {List} timeline {Roadmap} oneByOne {One-by-one view} group {Folder} report {Report} dashboard {Dashboard} other {{newItemType}} }",
+    "Set up your roadmap View": "Set up your roadmap View",
+    "New Roadmap": "New Roadmap",
+    "Set roadmap options": "Set roadmap options",
+    "Show on the roadmap": "Show on the roadmap"
 }
