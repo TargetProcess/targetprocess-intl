@@ -4324,5 +4324,9 @@
     "Set up your roadmap View": "Set up your roadmap View",
     "New Roadmap": "New Roadmap",
     "Set roadmap options": "Set roadmap options",
-    "Show on the roadmap": "Show on the roadmap"
+    "Show on the roadmap": "Show on the roadmap",
+    "Milestone '{milestoneName}' needs to be assigned to {projectsCount, plural, =1 {{project}} other {{projects}}} {missingProjectsString}.": "Milestone '{milestoneName}' needs to be assigned to {projectsCount, plural, =1 {{project}} other {{projects}}} {missingProjectsString}.",
+    "{entityTerm} {entityName} is succesfully assigned to {gridLineEntityTerm} {gridLineName}.": "{entityTerm} {entityName} is succesfully assigned to {gridLineEntityTerm} {gridLineName}.",
+    "{count} entities is succesfully assigned to {gridLineEntityTerm} {gridLineName}.": "{count} entities is succesfully assigned to {gridLineEntityTerm} {gridLineName}.",
+    "{milestoneName} {milestoneText} is now assigned to {projectsCount, plural, =1 {{projectTerm} {projectsText}} other {{projectsTerm} {projectsText}}}.": "{milestoneName} {milestoneText} is now assigned to {projectsCount, plural, =1 {{projectTerm} {projectsText}} other {{projectsTerm} {projectsText}}}."
 }
