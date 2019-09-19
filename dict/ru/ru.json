@@ -4328,5 +4328,9 @@
     "Milestone '{milestoneName}' needs to be assigned to {projectsCount, plural, =1 {{project}} other {{projects}}} {missingProjectsString}.": "Milestone '{milestoneName}' needs to be assigned to {projectsCount, plural, =1 {{project}} other {{projects}}} {missingProjectsString}.",
     "{entityTerm} {entityName} is succesfully assigned to {gridLineEntityTerm} {gridLineName}.": "{entityTerm} {entityName} is succesfully assigned to {gridLineEntityTerm} {gridLineName}.",
     "{count} entities is succesfully assigned to {gridLineEntityTerm} {gridLineName}.": "{count} entities is succesfully assigned to {gridLineEntityTerm} {gridLineName}.",
-    "{milestoneName} {milestoneText} is now assigned to {projectsCount, plural, =1 {{projectTerm} {projectsText}} other {{projectsTerm} {projectsText}}}.": "{milestoneName} {milestoneText} is now assigned to {projectsCount, plural, =1 {{projectTerm} {projectsText}} other {{projectsTerm} {projectsText}}}."
+    "{milestoneName} {milestoneText} is now assigned to {projectsCount, plural, =1 {{projectTerm} {projectsText}} other {{projectsTerm} {projectsText}}}.": "{milestoneName} {milestoneText} is now assigned to {projectsCount, plural, =1 {{projectTerm} {projectsText}} other {{projectsTerm} {projectsText}}}.",
+    "Move to bottom": "Move to bottom",
+    "Card has been successfully reprioritized to the {position} of the view.": "Card has been successfully reprioritized to the {position} of the view.",
+    "Card has been successfully reprioritized to the {position} of the level.": "Card has been successfully reprioritized to the {position} of the level.",
+    "Card has been successfully reprioritized to the {position} of it's cell.": "Card has been successfully reprioritized to the {position} of it's cell."
 }
