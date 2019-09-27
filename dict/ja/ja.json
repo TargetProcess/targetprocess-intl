@@ -4332,5 +4332,11 @@
     "Move to bottom": "Move to bottom",
     "Card has been successfully reprioritized to the {position} of the view.": "Card has been successfully reprioritized to the {position} of the view.",
     "Card has been successfully reprioritized to the {position} of the level.": "Card has been successfully reprioritized to the {position} of the level.",
-    "Card has been successfully reprioritized to the {position} of it's cell.": "Card has been successfully reprioritized to the {position} of it's cell."
+    "Card has been successfully reprioritized to the {position} of it's cell.": "Card has been successfully reprioritized to the {position} of it's cell.",
+    "Milestone '{milestoneName}' could not be unassigned from {projectsCount, plural, =1 {{project}} other {{projects}}} {missingProjectsString}. This Milestone is assigned to {dangledGeneralsCount, plural, =1 {{general}} other {{generals}}} {dangledGeneralsString}.": "Milestone '{milestoneName}' could not be unassigned from {projectsCount, plural, =1 {{project}} other {{projects}}} {missingProjectsString}. This Milestone is assigned to {dangledGeneralsCount, plural, =1 {{general}} other {{generals}}} {dangledGeneralsString}.",
+    "Milestone should be assigned to one Project at least.": "Milestone should be assigned to one Project at least.",
+    "Workflow for": "Workflow for",
+    "You can {addState} manually": "You can {addState} manually",
+    "'add {stateName}' state": "'add {stateName}' state",
+    "You can {edit} the workflow": "You can {edit} the workflow"
 }
