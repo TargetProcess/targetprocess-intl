@@ -4342,5 +4342,7 @@
     "Global workflow for entity type '{entityTypeName}' already exists": "Global workflow for entity type '{entityTypeName}' already exists",
     "This entity type has global workflow, so it's not possible to create a workflow for specific Process": "This entity type has global workflow, so it's not possible to create a workflow for specific Process",
     "Team workflow can't be created for global parent workflow": "Team workflow can't be created for global parent workflow",
-    "Entity state '{entityStateName}' for {entityKind} should belong to a global workflow": "Entity state '{entityStateName}' for {entityKind} should belong to a global workflow"
+    "Entity state '{entityStateName}' for {entityKind} should belong to a global workflow": "Entity state '{entityStateName}' for {entityKind} should belong to a global workflow",
+    "W{weekNumber} ({weekStart} - {weekEnd})": "W{weekNumber} ({weekStart} - {weekEnd})",
+    "W{weekNumber}": "W{weekNumber}"
 }
