@@ -4344,5 +4344,7 @@
     "Team workflow can't be created for global parent workflow": "Team workflow can't be created for global parent workflow",
     "Entity state '{entityStateName}' for {entityKind} should belong to a global workflow": "Entity state '{entityStateName}' for {entityKind} should belong to a global workflow",
     "W{weekNumber} ({weekStart} - {weekEnd})": "W{weekNumber} ({weekStart} - {weekEnd})",
-    "W{weekNumber}": "W{weekNumber}"
+    "W{weekNumber}": "W{weekNumber}",
+    "User Email parameter is missed": "User Email parameter is missed",
+    "Gravatar returned reason phrase: {reasonPhrase}.": "Gravatar returned reason phrase: {reasonPhrase}."
 }
