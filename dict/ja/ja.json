@@ -4347,5 +4347,10 @@
     "W{weekNumber}": "W{weekNumber}",
     "User Email parameter is missed": "User Email parameter is missed",
     "Gravatar returned reason phrase: {reasonPhrase}.": "Gravatar returned reason phrase: {reasonPhrase}.",
-    "Miro Board integration": "Miro Board integration"
+    "Miro Board integration": "Miro Board integration",
+    "Configuration": "Configuration",
+    "Data management": "Data management",
+    "Automation": "Automation",
+    "Connection": "Connection",
+    "Roles and Permissions": "Roles and Permissions"
 }
