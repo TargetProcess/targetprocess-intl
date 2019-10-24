@@ -4352,5 +4352,11 @@
     "Data management": "Data management",
     "Automation": "Automation",
     "Connection": "Connection",
-    "Roles and Permissions": "Roles and Permissions"
+    "Roles and Permissions": "Roles and Permissions",
+    "Entity Type is not specified.": "Entity Type is not specified.",
+    "Cannot set Role for Entity. {entityTypeName} is not Assignable.": "Cannot set Role for Entity. {entityTypeName} is not Assignable.",
+    "Role Entity Type Process Setting": "Role Entity Type Process Setting",
+    "Role Entity Type Process Settings": "Role Entity Type Process Settings",
+    "Can Be Assigned": "Can Be Assigned",
+    "Role Entity Type Process Setting ID": "Role Entity Type Process Setting ID"
 }
