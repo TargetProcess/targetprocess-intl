@@ -4358,5 +4358,9 @@
     "Role Entity Type Process Setting": "Role Entity Type Process Setting",
     "Role Entity Type Process Settings": "Role Entity Type Process Settings",
     "Can Be Assigned": "Can Be Assigned",
-    "Role Entity Type Process Setting ID": "Role Entity Type Process Setting ID"
+    "Role Entity Type Process Setting ID": "Role Entity Type Process Setting ID",
+    "Progress formula should produce a numeric value. Actual value type: {typeName}": "Progress formula should produce a numeric value. Actual value type: {typeName}",
+    "Target field name should be a non-empty, non-whitespace string": "Target field name should be a non-empty, non-whitespace string",
+    "Field '{fieldName}' is a custom field for {customTypeList} and a native field for {nativeTypeList}. Such configuration is not supported yet.": "Field '{fieldName}' is a custom field for {customTypeList} and a native field for {nativeTypeList}. Such configuration is not supported yet.",
+    "Custom formula is not allowed for field '{fieldName}' of types {notAllowedTypeNames}. Configured white-list: {whiteList}": "Custom formula is not allowed for field '{fieldName}' of types {notAllowedTypeNames}. Configured white-list: {whiteList}"
 }
