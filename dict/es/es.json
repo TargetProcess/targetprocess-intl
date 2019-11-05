@@ -3827,7 +3827,7 @@
     "only active {projects}": "solo {projects} activos",
     "problematic {projects}": "{projects} problemáticos",
     "has some {projects}": "tiene algunos {projects}",
-    "{project} Manager": "Gestor de {projects}",
+    "{project} Manager": "Gestor de {project}",
     "Either {project} or Team should be selected": "Debe seleccionarse un {project} o un Equipo",
     "You need to <span class=\"i-role-select-context-link\">select a {project} or a team</span> to add something.": "Debe <span class=\"i-role-select-context-link\">seleccionar un {project} o un equipo</span> para añadir algo.",
     "You have no rights to add new items in the current {project}/Team context. You can change the context in <span class=\"i-role-select-context-link\">the settings</span>.": "No tiene permiso para añadir nuevos elementos en el contexto actual de {project}/Equipo. Puede cambiar el contexto en <span class=\"i-role-select-context-link\">la configuración</span>.",
