@@ -4364,5 +4364,6 @@
     "Field '{fieldName}' is a custom field for {customTypeList} and a native field for {nativeTypeList}. Such configuration is not supported yet.": "Field '{fieldName}' is a custom field for {customTypeList} and a native field for {nativeTypeList}. Such configuration is not supported yet.",
     "Custom formula is not allowed for field '{fieldName}' of types {notAllowedTypeNames}. Configured white-list: {whiteList}": "Custom formula is not allowed for field '{fieldName}' of types {notAllowedTypeNames}. Configured white-list: {whiteList}",
     "Prioritization is not allowed because {reason}": "Prioritization is not allowed because {reason}",
-    "list is sorted by '{propertyName}'": "list is sorted by '{propertyName}'"
+    "list is sorted by '{propertyName}'": "list is sorted by '{propertyName}'",
+    "Root TPR ID": "Root TPR ID"
 }
