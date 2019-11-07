@@ -4365,5 +4365,6 @@
     "Custom formula is not allowed for field '{fieldName}' of types {notAllowedTypeNames}. Configured white-list: {whiteList}": "Custom formula is not allowed for field '{fieldName}' of types {notAllowedTypeNames}. Configured white-list: {whiteList}",
     "Prioritization is not allowed because {reason}": "Prioritization is not allowed because {reason}",
     "list is sorted by '{propertyName}'": "list is sorted by '{propertyName}'",
-    "Root TPR ID": "Root TPR ID"
+    "Root TPR ID": "Root TPR ID",
+    "This {entityTerm} can't be assigned to a person. Its workflow doesn't have any Role for any {entityTerm} state.": "This {entityTerm} can't be assigned to a person. Its workflow doesn't have any Role for any {entityTerm} state."
 }
