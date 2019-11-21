@@ -4366,5 +4366,6 @@
     "Prioritization is not allowed because {reason}": "Prioritization is not allowed because {reason}",
     "list is sorted by '{propertyName}'": "list is sorted by '{propertyName}'",
     "Root TPR ID": "Root TPR ID",
-    "This {entityTerm} can't be assigned to a person. Its workflow doesn't have any Role for any {entityTerm} state.": "This {entityTerm} can't be assigned to a person. Its workflow doesn't have any Role for any {entityTerm} state."
+    "This {entityTerm} can't be assigned to a person. Its workflow doesn't have any Role for any {entityTerm} state.": "This {entityTerm} can't be assigned to a person. Its workflow doesn't have any Role for any {entityTerm} state.",
+    "Allows you to assign a custom calculation formula to a field": "Allows you to assign a custom calculation formula to a field"
 }
