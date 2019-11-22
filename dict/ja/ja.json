@@ -4367,5 +4367,9 @@
     "list is sorted by '{propertyName}'": "list is sorted by '{propertyName}'",
     "Root TPR ID": "Root TPR ID",
     "This {entityTerm} can't be assigned to a person. Its workflow doesn't have any Role for any {entityTerm} state.": "This {entityTerm} can't be assigned to a person. Its workflow doesn't have any Role for any {entityTerm} state.",
-    "Allows you to assign a custom calculation formula to a field": "Allows you to assign a custom calculation formula to a field"
+    "Allows you to assign a custom calculation formula to a field": "Allows you to assign a custom calculation formula to a field",
+    "Operation is cancelled because of server processing timeout or client cancellation.": "Operation is cancelled because of server processing timeout or client cancellation.",
+    "These cards belong to the {projects} or teams that are not included in the current View context, so such a move is impossible. Select {teamsCount, plural, =0 {} =1 {{teamsText} team} other {{teamsText} teams}}{projectTeamDelimiter}{projectsCount, plural, =0 {} =1 {{projectsText} project} other {{projectsText} projects}} in the top context menu.": "These cards belong to the {projects} or teams that are not included in the current View context, so such a move is impossible. Select {teamsCount, plural, =0 {} =1 {{teamsText} team} other {{teamsText} teams}}{projectTeamDelimiter}{projectsCount, plural, =0 {} =1 {{projectsText} project} other {{projectsText} projects}} in the top context menu.",
+    "Role '{role}' is not available for this item": "Role '{role}' is not available for this item",
+    "Is Team Assignable": "Is Team Assignable"
 }
