@@ -4374,5 +4374,6 @@
     "Is Team Assignable": "Is Team Assignable",
     "Milestone Projects": "Milestone Projects",
     "Milestone Project": "Milestone Project",
-    "Milestone Project ID": "Milestone Project ID"
+    "Milestone Project ID": "Milestone Project ID",
+    "Entity type '{entityTypeName}' is global assignable entity. Only administrators, contributors and users with default role that has permissions to edit '{entityTypeName}' can be assigned to it.": "Entity type '{entityTypeName}' is global assignable entity. Only administrators, contributors and users with default role that has permissions to edit '{entityTypeName}' can be assigned to it."
 }
