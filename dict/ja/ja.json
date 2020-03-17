@@ -4377,5 +4377,6 @@
     "Milestone Project ID": "Milestone Project ID",
     "Entity type '{entityTypeName}' is global assignable entity. Only administrators, contributors and users with default role that has permissions to edit '{entityTypeName}' can be assigned to it.": "Entity type '{entityTypeName}' is global assignable entity. Only administrators, contributors and users with default role that has permissions to edit '{entityTypeName}' can be assigned to it.",
     "See our blog": "See our blog",
-    "Relay State Query String Parameter Name": "Relay State Query String Parameter Name"
+    "Relay State Query String Parameter Name": "Relay State Query String Parameter Name",
+    "Restoring process has Custom Fields that are conflicting with attributes of some entities": "Restoring process has Custom Fields that are conflicting with attributes of some entities"
 }
