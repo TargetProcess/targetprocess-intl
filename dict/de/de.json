@@ -4379,5 +4379,6 @@
     "See our blog": "See our blog",
     "Relay State Query String Parameter Name": "Relay State Query String Parameter Name",
     "Restoring process has Custom Fields that are conflicting with attributes of some entities": "Restoring process has Custom Fields that are conflicting with attributes of some entities",
-    "Show view setup": "Show view setup"
+    "Show view setup": "Show view setup",
+    "was successfully added but it may be not displayed at this View because it does not match the view filter condition.": "was successfully added but it may be not displayed at this View because it does not match the view filter condition."
 }
