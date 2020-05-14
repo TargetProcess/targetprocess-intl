@@ -4381,5 +4381,9 @@
     "Restoring process has Custom Fields that are conflicting with attributes of some entities": "Restoring process has Custom Fields that are conflicting with attributes of some entities",
     "Show view setup": "Show view setup",
     "was successfully added but it may be not displayed at this View because it does not match the view filter condition.": "was successfully added but it may be not displayed at this View because it does not match the view filter condition.",
-    "N/p": "N/p"
+    "N/p": "N/p",
+    "Field Type of existing Custom Field can't be changed": "Field Type of existing Custom Field can't be changed",
+    "Entity Type of existing Custom Field can't be changed": "Entity Type of existing Custom Field can't be changed",
+    "Process of existing Custom Field can't be changed": "Process of existing Custom Field can't be changed",
+    "Show 4th hierarchy level": "Show 4th hierarchy level"
 }
