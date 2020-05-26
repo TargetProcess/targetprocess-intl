@@ -4385,5 +4385,7 @@
     "Field Type of existing Custom Field can't be changed": "Field Type of existing Custom Field can't be changed",
     "Entity Type of existing Custom Field can't be changed": "Entity Type of existing Custom Field can't be changed",
     "Process of existing Custom Field can't be changed": "Process of existing Custom Field can't be changed",
-    "Show 4th hierarchy level": "Show 4th hierarchy level"
+    "Show 4th hierarchy level": "Show 4th hierarchy level",
+    "Date is empty": "Date is empty",
+    "Incorrect Build date format": "Incorrect Build date format"
 }
