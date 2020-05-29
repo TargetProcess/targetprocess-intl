@@ -4387,5 +4387,6 @@
     "Process of existing Custom Field can't be changed": "Process of existing Custom Field can't be changed",
     "Show 4th hierarchy level": "Show 4th hierarchy level",
     "Date is empty": "Date is empty",
-    "Incorrect Build date format": "Incorrect Build date format"
+    "Incorrect Build date format": "Incorrect Build date format",
+    "Could not find cells with ids: {cellIds}.": "Could not find cells with ids: {cellIds}."
 }
