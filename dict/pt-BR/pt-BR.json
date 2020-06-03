@@ -4388,5 +4388,6 @@
     "Show 4th hierarchy level": "Show 4th hierarchy level",
     "Date is empty": "Date is empty",
     "Incorrect Build date format": "Incorrect Build date format",
-    "Could not find cells with ids: {cellIds}.": "Could not find cells with ids: {cellIds}."
+    "Could not find cells with ids: {cellIds}.": "Could not find cells with ids: {cellIds}.",
+    "{integrations} {integrationsCount, plural, =1 {integration has} other {integrations have}} failed to load. Reload the page or contact support.": "{integrations} {integrationsCount, plural, =1 {integration has} other {integrations have}} failed to load. Reload the page or contact support."
 }
