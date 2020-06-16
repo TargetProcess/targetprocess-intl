@@ -4391,5 +4391,8 @@
     "Could not find cells with ids: {cellIds}.": "Could not find cells with ids: {cellIds}.",
     "{integrations} {integrationsCount, plural, =1 {integration has} other {integrations have}} failed to load. Reload the page or contact support.": "{integrations} {integrationsCount, plural, =1 {integration has} other {integrations have}} failed to load. Reload the page or contact support.",
     "Has Active Team": "Has Active Team",
-    "Is Team Active": "Is Team Active"
+    "Is Team Active": "Is Team Active",
+    "{entityKind} emoji icon should not be longer than 50 symbols length": "{entityKind} emoji icon should not be longer than 50 symbols length",
+    "Emoji Icon": "Emoji Icon",
+    "Is Changed Emoji Icon": "Is Changed Emoji Icon"
 }
