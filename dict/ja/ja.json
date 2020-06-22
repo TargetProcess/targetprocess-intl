@@ -4394,5 +4394,7 @@
     "Is Team Active": "Is Team Active",
     "{entityKind} emoji icon should not be longer than 50 symbols length": "{entityKind} emoji icon should not be longer than 50 symbols length",
     "Emoji Icon": "Emoji Icon",
-    "Is Changed Emoji Icon": "Is Changed Emoji Icon"
+    "Is Changed Emoji Icon": "Is Changed Emoji Icon",
+    "There are Tasks assigned to it which can not exist without {entityType}. Please, unassign or delete Tasks to proceed with convert": "There are Tasks assigned to it which can not exist without {entityType}. Please, unassign or delete Tasks to proceed with convert",
+    "Field '{fieldName}' is not available in {resourceInfo}": "Field '{fieldName}' is not available in {resourceInfo}"
 }
