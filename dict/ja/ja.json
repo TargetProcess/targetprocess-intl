@@ -4398,5 +4398,6 @@
     "There are Tasks assigned to it which can not exist without {entityType}. Please, unassign or delete Tasks to proceed with convert": "There are Tasks assigned to it which can not exist without {entityType}. Please, unassign or delete Tasks to proceed with convert",
     "Field '{fieldName}' is not available in {resourceInfo}": "Field '{fieldName}' is not available in {resourceInfo}",
     "It is not possible to move {targetEntityKind} in the {dependentEntityKind} axis. {dependentEntityKind} depends on {axisEntityKind} and calculated automatically and cannot be manually updated.": "It is not possible to move {targetEntityKind} in the {dependentEntityKind} axis. {dependentEntityKind} depends on {axisEntityKind} and calculated automatically and cannot be manually updated.",
-    "Is Integration": "Is Integration"
+    "Is Integration": "Is Integration",
+    "Process Of Project": "Process Of Project"
 }
