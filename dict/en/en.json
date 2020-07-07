@@ -4399,5 +4399,10 @@
     "Field '{fieldName}' is not available in {resourceInfo}": "Field '{fieldName}' is not available in {resourceInfo}",
     "It is not possible to move {targetEntityKind} in the {dependentEntityKind} axis. {dependentEntityKind} depends on {axisEntityKind} and calculated automatically and cannot be manually updated.": "It is not possible to move {targetEntityKind} in the {dependentEntityKind} axis. {dependentEntityKind} depends on {axisEntityKind} and calculated automatically and cannot be manually updated.",
     "Is Integration": "Is Integration",
-    "Process Of Project": "Process Of Project"
+    "Process Of Project": "Process Of Project",
+    "No other users have visited this view": "No other users have visited this view",
+    "Last visited by another user {daysAgo, plural, =0 {today} one {yesterday} other {{daysAgo} days ago}}": "Last visited by another user {daysAgo, plural, =0 {today} one {yesterday} other {{daysAgo} days ago}}",
+    "Do you really want to remove this {itemType, select, group {Group} customreport {Report} dashboard {Dashboard} miroboard {Miro Board} other {View} }?": "Do you really want to remove this {itemType, select, group {Group} customreport {Report} dashboard {Dashboard} miroboard {Miro Board} other {View} }?",
+    "Create new {newItemType} inside the current Folder": "Create new {newItemType} inside the current Folder",
+    "{newItemType, select, board {Board} list {List} timeline {Roadmap} oneByOne {One-by-one view} group {Folder} report {Report} dashboard {Dashboard} miroboard {Miro Board} other {{newItemType}} }": "{newItemType, select, board {Board} list {List} timeline {Roadmap} oneByOne {One-by-one view} group {Folder} report {Report} dashboard {Dashboard} miroboard {Miro Board} other {{newItemType}} }"
 }
