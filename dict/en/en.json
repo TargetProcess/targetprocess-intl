@@ -4404,5 +4404,8 @@
     "Last visited by another user {daysAgo, plural, =0 {today} one {yesterday} other {{daysAgo} days ago}}": "Last visited by another user {daysAgo, plural, =0 {today} one {yesterday} other {{daysAgo} days ago}}",
     "Do you really want to remove this {itemType, select, group {Group} customreport {Report} dashboard {Dashboard} miroboard {Miro Board} other {View} }?": "Do you really want to remove this {itemType, select, group {Group} customreport {Report} dashboard {Dashboard} miroboard {Miro Board} other {View} }?",
     "Create new {newItemType} inside the current Folder": "Create new {newItemType} inside the current Folder",
-    "{newItemType, select, board {Board} list {List} timeline {Roadmap} oneByOne {One-by-one view} group {Folder} report {Report} dashboard {Dashboard} miroboard {Miro Board} other {{newItemType}} }": "{newItemType, select, board {Board} list {List} timeline {Roadmap} oneByOne {One-by-one view} group {Folder} report {Report} dashboard {Dashboard} miroboard {Miro Board} other {{newItemType}} }"
+    "{newItemType, select, board {Board} list {List} timeline {Roadmap} oneByOne {One-by-one view} group {Folder} report {Report} dashboard {Dashboard} miroboard {Miro Board} other {{newItemType}} }": "{newItemType, select, board {Board} list {List} timeline {Roadmap} oneByOne {One-by-one view} group {Folder} report {Report} dashboard {Dashboard} miroboard {Miro Board} other {{newItemType}} }",
+    "Test Run Item Slice ID": "Test Run Item Slice ID",
+    "Parent Test Plan Run Slice ID": "Parent Test Plan Run Slice ID",
+    "Is Allowed For System User": "Is Allowed For System User"
 }
