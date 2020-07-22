@@ -4407,5 +4407,7 @@
     "{newItemType, select, board {Board} list {List} timeline {Roadmap} oneByOne {One-by-one view} group {Folder} report {Report} dashboard {Dashboard} miroboard {Miro Board} other {{newItemType}} }": "{newItemType, select, board {Board} list {List} timeline {Roadmap} oneByOne {One-by-one view} group {Folder} report {Report} dashboard {Dashboard} miroboard {Miro Board} other {{newItemType}} }",
     "Test Run Item Slice ID": "Test Run Item Slice ID",
     "Parent Test Plan Run Slice ID": "Parent Test Plan Run Slice ID",
-    "Is Allowed For System User": "Is Allowed For System User"
+    "Is Allowed For System User": "Is Allowed For System User",
+    "Integration": "Integration",
+    "user transformation from integration to a regular one is irreversible": "user transformation from integration to a regular one is irreversible"
 }
