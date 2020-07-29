@@ -4409,5 +4409,7 @@
     "Parent Test Plan Run Slice ID": "Parent Test Plan Run Slice ID",
     "Is Allowed For System User": "Is Allowed For System User",
     "Integration": "Integration",
-    "user transformation from integration to a regular one is irreversible": "user transformation from integration to a regular one is irreversible"
+    "user transformation from integration to a regular one is irreversible": "user transformation from integration to a regular one is irreversible",
+    "Export this view to a .PDF file": "Export this view to a .PDF file",
+    "Export to PDF": "Export to PDF"
 }
