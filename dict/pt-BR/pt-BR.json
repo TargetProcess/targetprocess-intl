@@ -4412,5 +4412,7 @@
     "user transformation from integration to a regular one is irreversible": "user transformation from integration to a regular one is irreversible",
     "Export this view to a .PDF file": "Export this view to a .PDF file",
     "Export to PDF": "Export to PDF",
-    "Userstories timeline": "Userstories timeline"
+    "Userstories timeline": "Userstories timeline",
+    "Some of fields are missing here. Quick Add service is unavailable.": "Some of fields are missing here. Quick Add service is unavailable.",
+    "Please contact support.": "Please contact support."
 }
