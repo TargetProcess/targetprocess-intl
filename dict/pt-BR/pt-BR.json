@@ -4414,5 +4414,12 @@
     "Export to PDF": "Export to PDF",
     "Userstories timeline": "Userstories timeline",
     "Some of fields are missing here. Quick Add service is unavailable.": "Some of fields are missing here. Quick Add service is unavailable.",
-    "Please contact support.": "Please contact support."
+    "Please contact support.": "Please contact support.",
+    "All: {totalCount, number, integer}": "All: {totalCount, number, integer}",
+    "Open relations": "Open relations",
+    "Open Inbound Relations Count": "Open Inbound Relations Count",
+    "Open Outbound Relations Count": "Open Outbound Relations Count",
+    "All relations": "All relations",
+    "All Inbound Relations Count": "All Inbound Relations Count",
+    "All Outbound Relations Count": "All Outbound Relations Count"
 }
