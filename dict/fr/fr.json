@@ -1834,7 +1834,7 @@
     "None": "Aucun",
     "Inbound": "Entrant",
     "Outbound": "Sortant",
-    "filter": "filter",
+    "filter": "filtre",
     "ID, Name or type ? for advanced filter": "ID, Nom ou entrez ? pour obtenir des filtres avancés",
     "create {entityName}": "créer {entityName}",
     "Nothing found. You need to {createEntityLink} first.": "Rien n'a été trouvé. Vous devez d'abord {createEntityLink}.",

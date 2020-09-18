@@ -1834,7 +1834,7 @@
     "None": "Никакой",
     "Inbound": "Входящие",
     "Outbound": "Исходящие",
-    "filter": "filter",
+    "filter": "фильтр",
     "ID, Name or type ? for advanced filter": "ID или название (или наберите ? для расширенного фильтра)",
     "create {entityName}": "создать {entityName}",
     "Nothing found. You need to {createEntityLink} first.": "Ничего не найдено. Вам нужно {createEntityLink} сначала.",

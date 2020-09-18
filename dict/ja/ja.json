@@ -1834,7 +1834,7 @@
     "None": "なし",
     "Inbound": "内向き",
     "Outbound": "外向き",
-    "filter": "filter",
+    "filter": "フィルター",
     "ID, Name or type ? for advanced filter": "ID、名前、または高度なフィルターには ? を入力してください",
     "create {entityName}": "{entityName}を作成",
     "Nothing found. You need to {createEntityLink} first.": "何も見つかりませんでした。先に{createEntityLink}する必要があります。",
