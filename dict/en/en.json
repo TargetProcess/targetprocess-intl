@@ -4422,5 +4422,6 @@
     "All relations": "All relations",
     "All Inbound Relations Count": "All Inbound Relations Count",
     "All Outbound Relations Count": "All Outbound Relations Count",
-    "Can Prioritize": "Can Prioritize"
+    "Can Prioritize": "Can Prioritize",
+    "Hide empty lanes won't hide everything that is empty in some lanes due to performance issues. If you are unhappy with this please vote for corresponding idea and describe your case.": "Hide empty lanes won't hide everything that is empty in some lanes due to performance issues. If you are unhappy with this please vote for corresponding idea and describe your case."
 }
