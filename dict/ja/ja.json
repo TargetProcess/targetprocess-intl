@@ -4446,5 +4446,9 @@
     "Format Specifier": "Format Specifier",
     "Format Info": "Format Info",
     "The value can only be a valid number, e.g. 1, 3{decimalSeparator}14 or 200": "The value can only be a valid number, e.g. 1, 3{decimalSeparator}14 or 200",
-    "The Dashboard Widget you’re trying to access wasn’t found.": "The Dashboard Widget you’re trying to access wasn’t found."
+    "The Dashboard Widget you’re trying to access wasn’t found.": "The Dashboard Widget you’re trying to access wasn’t found.",
+    "First Name Parameter Name": "First Name Parameter Name",
+    "Last Name Parameter Name": "Last Name Parameter Name",
+    "Default Role Parameter Name": "Default Role Parameter Name",
+    "We created a new TP user for you, but may be missed some details. Please change “John Doe” to your real name.": "We created a new TP user for you, but may be missed some details. Please change “John Doe” to your real name."
 }
