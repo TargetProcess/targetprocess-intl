@@ -4450,5 +4450,8 @@
     "First Name Parameter Name": "First Name Parameter Name",
     "Last Name Parameter Name": "Last Name Parameter Name",
     "Default Role Parameter Name": "Default Role Parameter Name",
-    "We created a new TP user for you, but may be missed some details. Please change “John Doe” to your real name.": "We created a new TP user for you, but may be missed some details. Please change “John Doe” to your real name."
+    "We created a new TP user for you, but may be missed some details. Please change “John Doe” to your real name.": "We created a new TP user for you, but may be missed some details. Please change “John Doe” to your real name.",
+    "Is Changed Workflow Team": "Is Changed Workflow Team",
+    "Is Changed Team State": "Is Changed Team State",
+    "Workflow Team": "Workflow Team"
 }
