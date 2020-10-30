@@ -4453,5 +4453,7 @@
     "We created a new TP user for you, but may be missed some details. Please change “John Doe” to your real name.": "We created a new TP user for you, but may be missed some details. Please change “John Doe” to your real name.",
     "Is Changed Workflow Team": "Is Changed Workflow Team",
     "Is Changed Team State": "Is Changed Team State",
-    "Workflow Team": "Workflow Team"
+    "Workflow Team": "Workflow Team",
+    "This checkbox shows/hides period boundary lines and actual dates on the roadmap header.": "This checkbox shows/hides period boundary lines and actual dates on the roadmap header.",
+    "Period lanes": "Period lanes"
 }
