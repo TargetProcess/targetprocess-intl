@@ -4455,5 +4455,7 @@
     "Is Changed Team State": "Is Changed Team State",
     "Workflow Team": "Workflow Team",
     "This checkbox shows/hides period boundary lines and actual dates on the roadmap header.": "This checkbox shows/hides period boundary lines and actual dates on the roadmap header.",
-    "Period lanes": "Period lanes"
+    "Period lanes": "Period lanes",
+    "This checkbox shows/hides date boundary lines and actual dates on the roadmap header.": "This checkbox shows/hides date boundary lines and actual dates on the roadmap header.",
+    "Date grid": "Date grid"
 }
