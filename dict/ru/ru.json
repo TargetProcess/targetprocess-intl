@@ -4457,5 +4457,9 @@
     "This checkbox shows/hides period boundary lines and actual dates on the roadmap header.": "This checkbox shows/hides period boundary lines and actual dates on the roadmap header.",
     "Period lanes": "Period lanes",
     "This checkbox shows/hides date boundary lines and actual dates on the roadmap header.": "This checkbox shows/hides date boundary lines and actual dates on the roadmap header.",
-    "Date grid": "Date grid"
+    "Date grid": "Date grid",
+    "Description Modify Date": "Description Modify Date",
+    "{dayPart} a\\\\\\\\t {timePart}": "{dayPart} a\\\\\\\\t {timePart}",
+    "(edited)": "(edited)",
+    "Edited {xDaysAgo} ({editDatePrecise})": "Edited {xDaysAgo} ({editDatePrecise})"
 }
