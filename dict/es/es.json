@@ -4464,5 +4464,6 @@
     "Edited {xDaysAgo} ({editDatePrecise})": "Edited {xDaysAgo} ({editDatePrecise})",
     "The Dashboard Widget type (${templateId}) you’re trying to access isn’t supported.": "The Dashboard Widget type (${templateId}) you’re trying to access isn’t supported.",
     "Report from Views Menu": "Report from Views Menu",
-    "Open full view": "Open full view"
+    "Open full view": "Open full view",
+    "Unable to display add tile for {tool}": "Unable to display add tile for {tool}"
 }
