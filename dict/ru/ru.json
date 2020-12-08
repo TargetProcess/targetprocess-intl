@@ -4466,5 +4466,6 @@
     "Report from Views Menu": "Report from Views Menu",
     "Open full view": "Open full view",
     "Unable to display add tile for {tool}": "Unable to display add tile for {tool}",
-    "Not used yet": "Не использовался"
+    "Not used yet": "Не использовался",
+    "No value passed to Extendable Domain field processor.": "No value passed to Extendable Domain field processor."
 }
