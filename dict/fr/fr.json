@@ -4467,5 +4467,11 @@
     "Open full view": "Open full view",
     "Unable to display add tile for {tool}": "Unable to display add tile for {tool}",
     "Not used yet": "Not used yet",
-    "No value passed to Extendable Domain field processor.": "No value passed to Extendable Domain field processor."
+    "No value passed to Extendable Domain field processor.": "No value passed to Extendable Domain field processor.",
+    "Calculated custom fields can't be mapped to dynamic columns": "Calculated custom fields can't be mapped to dynamic columns",
+    "Unable to build entity axis '{axisId}'": "Unable to build entity axis '{axisId}'",
+    "Unable to find exactly one '{axisId}' axis projection for field '{fieldName}'": "Unable to find exactly one '{axisId}' axis projection for field '{fieldName}'",
+    "Is Dynamic Column": "Is Dynamic Column",
+    "Entity Field Name V2": "Entity Field Name V2",
+    "Table Name": "Table Name"
 }
