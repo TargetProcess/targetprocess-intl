@@ -4473,5 +4473,6 @@
     "Unable to find exactly one '{axisId}' axis projection for field '{fieldName}'": "Unable to find exactly one '{axisId}' axis projection for field '{fieldName}'",
     "Is Dynamic Column": "Is Dynamic Column",
     "Entity Field Name V2": "Entity Field Name V2",
-    "Table Name": "Table Name"
+    "Table Name": "Table Name",
+    "Custom Field Table Name": "Custom Field Table Name"
 }
