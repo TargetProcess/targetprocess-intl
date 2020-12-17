@@ -4477,5 +4477,9 @@
     "Custom Field Table Name": "Custom Field Table Name",
     "There is no custom field of matching type named '{customFieldName}' for {entityTypeList}": "There is no custom field of matching type named '{customFieldName}' for {entityTypeList}",
     "Custom field '{customFieldName}' is defined as calculated for {entityTypeList}. Only regular custom fields are supported as formula targets.": "Custom field '{customFieldName}' is defined as calculated for {entityTypeList}. Only regular custom fields are supported as formula targets.",
-    "Enter {caption}": "Enter {caption}"
+    "Enter {caption}": "Enter {caption}",
+    "The name should not start with a whitespace.": "The name should not start with a whitespace.",
+    "The custom field with name '{customFieldName}' already exists with other database type. Conflicting custom fields: {conflictingCustomFields}": "The custom field with name '{customFieldName}' already exists with other database type. Conflicting custom fields: {conflictingCustomFields}",
+    "Database Type": "Database Type",
+    "This does not delete synced issues, but completely detaches all Targetprocess entities from synced Jira issues. If you want to keep this data, use 'Disable profile' option.": "This does not delete synced issues, but completely detaches all Targetprocess entities from synced Jira issues. If you want to keep this data, use 'Disable profile' option."
 }
