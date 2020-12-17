@@ -4474,5 +4474,8 @@
     "Is Dynamic Column": "Is Dynamic Column",
     "Entity Field Name V2": "Entity Field Name V2",
     "Table Name": "Table Name",
-    "Custom Field Table Name": "Custom Field Table Name"
+    "Custom Field Table Name": "Custom Field Table Name",
+    "There is no custom field of matching type named '{customFieldName}' for {entityTypeList}": "There is no custom field of matching type named '{customFieldName}' for {entityTypeList}",
+    "Custom field '{customFieldName}' is defined as calculated for {entityTypeList}. Only regular custom fields are supported as formula targets.": "Custom field '{customFieldName}' is defined as calculated for {entityTypeList}. Only regular custom fields are supported as formula targets.",
+    "Enter {caption}": "Enter {caption}"
 }
