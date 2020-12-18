@@ -4481,5 +4481,8 @@
     "The name should not start with a whitespace.": "The name should not start with a whitespace.",
     "The custom field with name '{customFieldName}' already exists with other database type. Conflicting custom fields: {conflictingCustomFields}": "The custom field with name '{customFieldName}' already exists with other database type. Conflicting custom fields: {conflictingCustomFields}",
     "Database Type": "Database Type",
-    "This does not delete synced issues, but completely detaches all Targetprocess entities from synced Jira issues. If you want to keep this data, use 'Disable profile' option.": "This does not delete synced issues, but completely detaches all Targetprocess entities from synced Jira issues. If you want to keep this data, use 'Disable profile' option."
+    "This does not delete synced issues, but completely detaches all Targetprocess entities from synced Jira issues. If you want to keep this data, use 'Disable profile' option.": "This does not delete synced issues, but completely detaches all Targetprocess entities from synced Jira issues. If you want to keep this data, use 'Disable profile' option.",
+    "System user '{login}' couldn't be deleted.": "System user '{login}' couldn't be deleted.",
+    "System user '{login}' couldn't be deactivated.": "System user '{login}' couldn't be deactivated.",
+    "System user '{login}' should always have administrator rights.": "System user '{login}' should always have administrator rights."
 }
