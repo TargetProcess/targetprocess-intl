@@ -4484,5 +4484,6 @@
     "This does not delete synced issues, but completely detaches all Targetprocess entities from synced Jira issues. If you want to keep this data, use 'Disable profile' option.": "This does not delete synced issues, but completely detaches all Targetprocess entities from synced Jira issues. If you want to keep this data, use 'Disable profile' option.",
     "System user '{login}' couldn't be deleted.": "System user '{login}' couldn't be deleted.",
     "System user '{login}' couldn't be deactivated.": "System user '{login}' couldn't be deactivated.",
-    "System user '{login}' should always have administrator rights.": "System user '{login}' should always have administrator rights."
+    "System user '{login}' should always have administrator rights.": "System user '{login}' should always have administrator rights.",
+    "{fieldName}: {newValue}": "{fieldName}: {newValue}"
 }
