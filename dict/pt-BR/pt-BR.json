@@ -4485,5 +4485,6 @@
     "System user '{login}' couldn't be deleted.": "System user '{login}' couldn't be deleted.",
     "System user '{login}' couldn't be deactivated.": "System user '{login}' couldn't be deactivated.",
     "System user '{login}' should always have administrator rights.": "System user '{login}' should always have administrator rights.",
-    "{fieldName}: {newValue}": "{fieldName}: {newValue}"
+    "{fieldName}: {newValue}": "{fieldName}: {newValue}",
+    "Resource field must be specified": "Resource field must be specified"
 }
