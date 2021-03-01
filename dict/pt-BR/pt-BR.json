@@ -4488,5 +4488,6 @@
     "{fieldName}: {newValue}": "{fieldName}: {newValue}",
     "Resource field must be specified": "Resource field must be specified",
     "Clone {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}}}": "Clone {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}}}",
-    "Make a copy of this {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}}}": "Make a copy of this {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}}}"
+    "Make a copy of this {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}}}": "Make a copy of this {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}}}",
+    "Please assign card to {team} first": "Please assign card to {team} first"
 }
