@@ -4491,5 +4491,6 @@
     "Make a copy of this {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} miroboard {Miro board} other {{itemType}}}": "Сделать копию {itemType, select, view {этой доски} group {этой группы} customreport {этого отчёта} dashboard {этого дашборда} miroboard {этой доски Miro} other {{itemType}} }",
     "Please assign card to {team} first": "Please assign card to {team} first",
     "Persisted Mime Type": "Persisted Mime Type",
-    "Persisted Size": "Persisted Size"
+    "Persisted Size": "Persisted Size",
+    "Drag-n-drop a widget to change the layout": "Drag-n-drop a widget to change the layout"
 }
