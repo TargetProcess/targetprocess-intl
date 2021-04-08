@@ -4494,5 +4494,6 @@
     "Persisted Size": "Persisted Size",
     "Drag-n-drop a widget to change the layout": "Drag-n-drop a widget to change the layout",
     "Unplanned": "Unplanned",
-    "All reports are disabled for your account.": "All reports are disabled for your account."
+    "All reports are disabled for your account.": "All reports are disabled for your account.",
+    "It might happen due to urgent update deployment or short maintenance. Reload the page a few minutes later, please.": "It might happen due to urgent update deployment or short maintenance. Reload the page a few minutes later, please."
 }
