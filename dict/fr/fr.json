@@ -4495,5 +4495,14 @@
     "Drag-n-drop a widget to change the layout": "Drag-n-drop a widget to change the layout",
     "Unplanned": "Unplanned",
     "All reports are disabled for your account.": "All reports are disabled for your account.",
-    "It might happen due to urgent update deployment or short maintenance. Reload the page a few minutes later, please.": "It might happen due to urgent update deployment or short maintenance. Reload the page a few minutes later, please."
+    "It might happen due to urgent update deployment or short maintenance. Reload the page a few minutes later, please.": "It might happen due to urgent update deployment or short maintenance. Reload the page a few minutes later, please.",
+    "Entity State History": "Entity State History",
+    "Entity State Histories": "Entity State Histories",
+    "Is Changed Is Initial": "Is Changed Is Initial",
+    "Is Changed Is Final": "Is Changed Is Final",
+    "Is Changed Is Default Final": "Is Changed Is Default Final",
+    "Is Changed Is Planned": "Is Changed Is Planned",
+    "Is Changed Is Comment Required": "Is Changed Is Comment Required",
+    "Entity State Id": "Entity State Id",
+    "Current Entity State": "Current Entity State"
 }
