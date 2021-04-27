@@ -4505,5 +4505,8 @@
     "Is Changed Is Comment Required": "Is Changed Is Comment Required",
     "Entity State Id": "Entity State Id",
     "Current Entity State": "Current Entity State",
-    "week": "week"
+    "week": "week",
+    "This {entityTerm} can’t be assigned to a person as its process '{processName}' doesn't have a role for it.": "This {entityTerm} can’t be assigned to a person as its process '{processName}' doesn't have a role for it.",
+    "This {entityTerm} can’t be assigned to a person as a role for it doesn’t exist.": "This {entityTerm} can’t be assigned to a person as a role for it doesn’t exist.",
+    "Add a role in <span class=\"i-role-independent-role-settings\">Roles and assignments</span>.": "Add a role in <span class=\"i-role-independent-role-settings\">Roles and assignments</span>."
 }
