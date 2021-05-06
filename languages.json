@@ -3,70 +3,70 @@
     "code": "en",
     "name": "English",
     "stats": {
-      "totalTokensCount": 5265,
-      "translatedTokensCount": 5265,
+      "totalTokensCount": 5266,
+      "translatedTokensCount": 5266,
       "reviewedTokensCount": 0,
-      "translatedWordsCount": 30658
+      "translatedWordsCount": 30669
     }
   },
   {
     "code": "fr",
     "name": "French",
     "stats": {
-      "totalTokensCount": 5265,
-      "translatedTokensCount": 4243,
-      "reviewedTokensCount": 4113,
-      "translatedWordsCount": 24494
+      "totalTokensCount": 5266,
+      "translatedTokensCount": 4331,
+      "reviewedTokensCount": 4201,
+      "translatedWordsCount": 24649
     }
   },
   {
     "code": "de",
     "name": "German",
     "stats": {
-      "totalTokensCount": 5265,
-      "translatedTokensCount": 4458,
-      "reviewedTokensCount": 4287,
-      "translatedWordsCount": 25398
+      "totalTokensCount": 5266,
+      "translatedTokensCount": 4530,
+      "reviewedTokensCount": 4354,
+      "translatedWordsCount": 25549
     }
   },
   {
     "code": "ja",
     "name": "Japanese",
     "stats": {
-      "totalTokensCount": 5265,
-      "translatedTokensCount": 4780,
-      "reviewedTokensCount": 4780,
-      "translatedWordsCount": 27075
+      "totalTokensCount": 5266,
+      "translatedTokensCount": 4846,
+      "reviewedTokensCount": 4845,
+      "translatedWordsCount": 27198
     }
   },
   {
     "code": "pt-BR",
     "name": "Portuguese (Brazil)",
     "stats": {
-      "totalTokensCount": 5265,
-      "translatedTokensCount": 4257,
-      "reviewedTokensCount": 4068,
-      "translatedWordsCount": 24571
+      "totalTokensCount": 5266,
+      "translatedTokensCount": 4343,
+      "reviewedTokensCount": 4154,
+      "translatedWordsCount": 24717
     }
   },
   {
     "code": "ru",
     "name": "Russian",
     "stats": {
-      "totalTokensCount": 5265,
-      "translatedTokensCount": 4363,
-      "reviewedTokensCount": 4217,
-      "translatedWordsCount": 24820
+      "totalTokensCount": 5266,
+      "translatedTokensCount": 4620,
+      "reviewedTokensCount": 4455,
+      "translatedWordsCount": 25869
     }
   },
   {
     "code": "es",
     "name": "Spanish",
     "stats": {
-      "totalTokensCount": 5265,
-      "translatedTokensCount": 4120,
-      "reviewedTokensCount": 4071,
-      "translatedWordsCount": 23956
+      "totalTokensCount": 5266,
+      "translatedTokensCount": 4209,
+      "reviewedTokensCount": 4161,
+      "translatedWordsCount": 24116
     }
   }
 ]

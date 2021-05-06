@@ -471,7 +471,7 @@
     "High level progress of Teams": "Grober Fortschritt von Teams",
     "Releases status": "'Release'-Status",
     "Current Releases progress on a high level": "Grober Fortschritt aktueller 'Releases'",
-    "Iterations status": "Iterations-Stauts",
+    "Iterations status": "Iterations-Status",
     "Current iterations progress on a high level": "Grober Fortschritt aktueller Iterationen",
     "A list of upcoming milestones": "Eine Liste anstehender Meilensteine",
     "Lists": "Listen",
@@ -4508,5 +4508,6 @@
     "week": "week",
     "This {entityTerm} can’t be assigned to a person as its process '{processName}' doesn't have a role for it.": "This {entityTerm} can’t be assigned to a person as its process '{processName}' doesn't have a role for it.",
     "This {entityTerm} can’t be assigned to a person as a role for it doesn’t exist.": "This {entityTerm} can’t be assigned to a person as a role for it doesn’t exist.",
-    "Add a role in <span class=\"i-role-independent-role-settings\">Roles and assignments</span>.": "Add a role in <span class=\"i-role-independent-role-settings\">Roles and assignments</span>."
+    "Add a role in <span class=\"i-role-independent-role-settings\">Roles and assignments</span>.": "Add a role in <span class=\"i-role-independent-role-settings\">Roles and assignments</span>.",
+    "Custom formula is not allowed for field '{fieldName}' of types {notAllowedTypeNames}.": "Custom formula is not allowed for field '{fieldName}' of types {notAllowedTypeNames}."
 }

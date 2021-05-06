@@ -102,7 +102,7 @@
     "Invalid slice definition.": "Définition de tranche invalide.",
     "Invalid date range": "Plage de dates invalide",
     "User guide": "Guide d'utilisateur",
-    "Feedback sent. Thank you!": "Commentaire envoyé. Merci !",
+    "Feedback sent. Thank you!": "Commentaire envoyé. Merci!",
     "Give feedback": "Envoyer un commentaire",
     "Custom Metric Settings could not be parsed": "Les paramètres de métriques personnalisées ne peuvent être analysés",
     "At least one process should be selected": "Au moins un processus doit être sélectionné",
@@ -4258,7 +4258,7 @@
     "Either state kind or state name should be specified, but not both": "Either state kind or state name should be specified, but not both",
     "Is Global": "Is Global",
     "No {axisResourceName}": "No {axisResourceName}",
-    "No such items found": "No such items found",
+    "No such items found": "Aucun élément trouvé",
     "Failed to export the view as CSV. Please ask Support to disable CsvExportViaBlob feature and retry.": "Failed to export the view as CSV. Please ask Support to disable CsvExportViaBlob feature and retry.",
     "Unable to update custom field {fieldName}. {entityKind} #{entityId} not found.": "Unable to update custom field {fieldName}. {entityKind} #{entityId} not found.",
     "Unknown": "Unknown",
@@ -4508,5 +4508,6 @@
     "week": "week",
     "This {entityTerm} can’t be assigned to a person as its process '{processName}' doesn't have a role for it.": "This {entityTerm} can’t be assigned to a person as its process '{processName}' doesn't have a role for it.",
     "This {entityTerm} can’t be assigned to a person as a role for it doesn’t exist.": "This {entityTerm} can’t be assigned to a person as a role for it doesn’t exist.",
-    "Add a role in <span class=\"i-role-independent-role-settings\">Roles and assignments</span>.": "Add a role in <span class=\"i-role-independent-role-settings\">Roles and assignments</span>."
+    "Add a role in <span class=\"i-role-independent-role-settings\">Roles and assignments</span>.": "Add a role in <span class=\"i-role-independent-role-settings\">Roles and assignments</span>.",
+    "Custom formula is not allowed for field '{fieldName}' of types {notAllowedTypeNames}.": "Custom formula is not allowed for field '{fieldName}' of types {notAllowedTypeNames}."
 }
