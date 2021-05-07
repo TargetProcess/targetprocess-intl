@@ -4028,7 +4028,7 @@
     "Nobody's received unwanted access or lost their permissions": "Nobody's received unwanted access or lost their permissions",
     "While migrating your Project-Team assignments to the new mechanism, we made sure that both nobody was granted accidental access, and everyone retained their existing access.": "While migrating your Project-Team assignments to the new mechanism, we made sure that both nobody was granted accidental access, and everyone retained their existing access.",
     "We only used the": "We only used the",
-    "Entire Project": "Entire Project",
+    "Entire Project": "Gesamtes Projekt",
     "option for those Team-Project pairs where every team member was assinged to the Project and": "option for those Team-Project pairs where every team member was assinged to the Project and",
     "was enabled.": "was enabled.",
     "Your default option for future assignments?": "Your default option for future assignments?",
@@ -4509,5 +4509,6 @@
     "This {entityTerm} can’t be assigned to a person as its process '{processName}' doesn't have a role for it.": "This {entityTerm} can’t be assigned to a person as its process '{processName}' doesn't have a role for it.",
     "This {entityTerm} can’t be assigned to a person as a role for it doesn’t exist.": "This {entityTerm} can’t be assigned to a person as a role for it doesn’t exist.",
     "Add a role in <span class=\"i-role-independent-role-settings\">Roles and assignments</span>.": "Add a role in <span class=\"i-role-independent-role-settings\">Roles and assignments</span>.",
-    "Custom formula is not allowed for field '{fieldName}' of types {notAllowedTypeNames}.": "Custom formula is not allowed for field '{fieldName}' of types {notAllowedTypeNames}."
+    "Custom formula is not allowed for field '{fieldName}' of types {notAllowedTypeNames}.": "Custom formula is not allowed for field '{fieldName}' of types {notAllowedTypeNames}.",
+    "Please select a type to create.": "Please select a type to create."
 }
