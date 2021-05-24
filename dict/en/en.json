@@ -4511,5 +4511,10 @@
     "Add a role in <span class=\"i-role-independent-role-settings\">Roles and assignments</span>.": "Add a role in <span class=\"i-role-independent-role-settings\">Roles and assignments</span>.",
     "Custom formula is not allowed for field '{fieldName}' of types {notAllowedTypeNames}.": "Custom formula is not allowed for field '{fieldName}' of types {notAllowedTypeNames}.",
     "Please select a type to create.": "Please select a type to create.",
-    "Legacy Skills": "Legacy Skills"
+    "Legacy Skills": "Legacy Skills",
+    "{fieldName} password hash algorithm is not allowed.": "{fieldName} password hash algorithm is not allowed.",
+    "{fieldName} password hash algorithm is not supported.": "{fieldName} password hash algorithm is not supported.",
+    "Password Hash Algorithm": "Password Hash Algorithm",
+    "Proprietary V1": "Proprietary V1",
+    "Identity V3": "Identity V3"
 }
