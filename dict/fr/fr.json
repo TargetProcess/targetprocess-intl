@@ -4518,5 +4518,7 @@
     "Proprietary V1": "Proprietary V1",
     "Identity V3": "Identity V3",
     "Creator": "Créateur",
-    "Creator Name": "Nom du créateur"
+    "Creator Name": "Nom du créateur",
+    "Placeholders should be used only in Custom fields of Text or RichText types": "Placeholders should be used only in Custom fields of Text or RichText types",
+    "Placeholder": "Placeholder"
 }
