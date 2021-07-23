@@ -4520,5 +4520,10 @@
     "Creator": "Créateur",
     "Creator Name": "Nom du créateur",
     "Placeholders should be used only in Custom fields of Text or RichText types": "Placeholders should be used only in Custom fields of Text or RichText types",
-    "Placeholder": "Placeholder"
+    "Placeholder": "Placeholder",
+    "Native fields": "Native fields",
+    "This checkbox shows/hides Milestones on cards.": "This checkbox shows/hides Milestones on cards.",
+    "Show flag markers on a card": "Show flag markers on a card",
+    "Entity as a flag": "Entity as a flag",
+    "Date field": "Date field"
 }
