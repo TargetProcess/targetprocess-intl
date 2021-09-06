@@ -4525,5 +4525,7 @@
     "This checkbox shows/hides Milestones on cards.": "This checkbox shows/hides Milestones on cards.",
     "Show flag markers on a card": "Show flag markers on a card",
     "Entity as a flag": "Entity as a flag",
-    "Date field": "Date field"
+    "Date field": "Date field",
+    "All the current assignments for this Team will be removed, and this action cannot be reverted.": "All the current assignments for this Team will be removed, and this action cannot be reverted.",
+    "All the current assignments for these Teams will be removed, and this action cannot be reverted.": "All the current assignments for these Teams will be removed, and this action cannot be reverted."
 }
