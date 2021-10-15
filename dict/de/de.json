@@ -4527,5 +4527,11 @@
     "Entity as a flag": "Entity as a flag",
     "Date field": "Date field",
     "All the current assignments for this Team will be removed, and this action cannot be reverted.": "All the current assignments for this Team will be removed, and this action cannot be reverted.",
-    "All the current assignments for these Teams will be removed, and this action cannot be reverted.": "All the current assignments for these Teams will be removed, and this action cannot be reverted."
+    "All the current assignments for these Teams will be removed, and this action cannot be reverted.": "All the current assignments for these Teams will be removed, and this action cannot be reverted.",
+    "Type name discriminator for {typeName} has unknown value '{value}'": "Type name discriminator for {typeName} has unknown value '{value}'",
+    "There is no required discriminator field '{fieldName}' to deserialize object of type {typeName}": "There is no required discriminator field '{fieldName}' to deserialize object of type {typeName}",
+    "Unknown rule condition type '{type}'": "Unknown rule condition type '{type}'",
+    "Unknown rule scope type '{type}'": "Unknown rule scope type '{type}'",
+    "{resourceType}#{resourceId} can't be modified because of validation rule '{ruleId}'{details}": "{resourceType}#{resourceId} can't be modified because of validation rule '{ruleId}'{details}",
+    ": {details}": ": {details}"
 }
