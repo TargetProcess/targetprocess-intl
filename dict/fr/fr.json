@@ -4533,5 +4533,7 @@
     "Unknown rule condition type '{type}'": "Unknown rule condition type '{type}'",
     "Unknown rule scope type '{type}'": "Unknown rule scope type '{type}'",
     "{resourceType}#{resourceId} can't be modified because of validation rule '{ruleId}'{details}": "{resourceType}#{resourceId} can't be modified because of validation rule '{ruleId}'{details}",
-    ": {details}": ": {details}"
+    ": {details}": ": {details}",
+    "Entity type name should not include '{separator}'. Passed value: '{passedValue}'": "Entity type name should not include '{separator}'. Passed value: '{passedValue}'",
+    "Field name should not include '{separator}'. Passed value: '{passedValue}'": "Field name should not include '{separator}'. Passed value: '{passedValue}'"
 }
