@@ -4535,5 +4535,7 @@
     "{resourceType}#{resourceId} can't be modified because of validation rule '{ruleId}'{details}": "{resourceType}#{resourceId} can't be modified because of validation rule '{ruleId}'{details}",
     ": {details}": ": {details}",
     "Entity type name should not include '{separator}'. Passed value: '{passedValue}'": "Entity type name should not include '{separator}'. Passed value: '{passedValue}'",
-    "Field name should not include '{separator}'. Passed value: '{passedValue}'": "Field name should not include '{separator}'. Passed value: '{passedValue}'"
+    "Field name should not include '{separator}'. Passed value: '{passedValue}'": "Field name should not include '{separator}'. Passed value: '{passedValue}'",
+    "May User Provisioning Create Multiple Users": "May User Provisioning Create Multiple Users",
+    "When a Service Desk requester logs into Targetprocess, a new user is automatically created using the email transmitted by the identity provider. The related requester account is removed.": "When a Service Desk requester logs into Targetprocess, a new user is automatically created using the email transmitted by the identity provider. The related requester account is removed."
 }
