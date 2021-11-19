@@ -4539,5 +4539,8 @@
     "May User Provisioning Create Multiple Users": "May User Provisioning Create Multiple Users",
     "When a Service Desk requester logs into Targetprocess, a new user is automatically created using the email transmitted by the identity provider. The related requester account is removed.": "When a Service Desk requester logs into Targetprocess, a new user is automatically created using the email transmitted by the identity provider. The related requester account is removed.",
     "shows the data with minimum visual elements.": "shows the data with minimum visual elements.",
-    "Table": "Table"
+    "Table": "Table",
+    "Unable to create a test instance of a validation rule: {details}": "Unable to create a test instance of a validation rule: {details}",
+    "Unknown entity type name '{entityTypeName}'": "Unknown entity type name '{entityTypeName}'",
+    "Invalid validation DSL for '{entityTypeName}': {details}": "Invalid validation DSL for '{entityTypeName}': {details}"
 }
