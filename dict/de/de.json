@@ -4542,5 +4542,6 @@
     "Table": "Table",
     "Unable to create a test instance of a validation rule: {details}": "Unable to create a test instance of a validation rule: {details}",
     "Unknown entity type name '{entityTypeName}'": "Unknown entity type name '{entityTypeName}'",
-    "Invalid validation DSL for '{entityTypeName}': {details}": "Invalid validation DSL for '{entityTypeName}': {details}"
+    "Invalid validation DSL for '{entityTypeName}': {details}": "Invalid validation DSL for '{entityTypeName}': {details}",
+    "The {fieldName} was modified by another user. We have refreshed it, so you can edit the recent version.": "The {fieldName} was modified by another user. We have refreshed it, so you can edit the recent version."
 }
