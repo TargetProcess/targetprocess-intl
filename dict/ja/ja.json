@@ -4544,5 +4544,6 @@
     "Unknown entity type name '{entityTypeName}'": "Unknown entity type name '{entityTypeName}'",
     "Invalid validation DSL for '{entityTypeName}': {details}": "Invalid validation DSL for '{entityTypeName}': {details}",
     "The {fieldName} was modified by another user. We have refreshed it, so you can edit the recent version.": "The {fieldName} was modified by another user. We have refreshed it, so you can edit the recent version.",
-    "See product updates": "See product updates"
+    "See product updates": "See product updates",
+    "{resourceType}#{resourceId} can't be modified because of validation rule #{ruleId}{details}": "{resourceType}#{resourceId} can't be modified because of validation rule #{ruleId}{details}"
 }
