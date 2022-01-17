@@ -4599,5 +4599,6 @@
     "Unassign {project} from this {teamTerm}?": "Unassign {project} from this {teamTerm}?",
     "Are you sure you want to remove {project} '{projectName}' from this {teamTerm}? All the current assignments for this {teamTerm} in the '{projectName}' {project} will be removed and this action cannot be reverted.": "Are you sure you want to remove {project} '{projectName}' from this {teamTerm}? All the current assignments for this {teamTerm} in the '{projectName}' {project} will be removed and this action cannot be reverted.",
     "No {teams} have been selected from the {project} and {team} selector. Select some {teams} to assign work to them.": "No {teams} have been selected from the {project} and {team} selector. Select some {teams} to assign work to them.",
-    "No {teams} found": "No {teams} found"
+    "No {teams} found": "No {teams} found",
+    "No Responsible {entityKind}": "No Responsible {entityKind}"
 }
