@@ -4602,5 +4602,7 @@
     "No {teams} found": "No {teams} found",
     "No Responsible {entityKind}": "No Responsible {entityKind}",
     "History State": "History State",
-    "Creating Deleted triggers is not allowed": "Creating Deleted triggers is not allowed"
+    "Creating Deleted triggers is not allowed": "Creating Deleted triggers is not allowed",
+    "additional access to view data in all {projects} and {teams}": "additional access to view data in all {projects} and {teams}",
+    "access to view and edit data in all {projects} and {teams}": "access to view and edit data in all {projects} and {teams}"
 }
