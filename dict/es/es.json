@@ -4604,5 +4604,7 @@
     "History State": "History State",
     "Creating Deleted triggers is not allowed": "Creating Deleted triggers is not allowed",
     "additional access to view data in all {projects} and {teams}": "additional access to view data in all {projects} and {teams}",
-    "access to view and edit data in all {projects} and {teams}": "access to view and edit data in all {projects} and {teams}"
+    "access to view and edit data in all {projects} and {teams}": "access to view and edit data in all {projects} and {teams}",
+    "Custom Field Values": "Custom Field Values",
+    "Custom Field Is Changed Flags": "Custom Field Is Changed Flags"
 }
