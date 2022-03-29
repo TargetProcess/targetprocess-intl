@@ -4608,5 +4608,10 @@
     "Custom Field Values": "Custom Field Values",
     "Custom Field Is Changed Flags": "Custom Field Is Changed Flags",
     "Service User": "Service User",
-    "Service Users": "Service Users"
+    "Service Users": "Service Users",
+    "History state of custom field {customFieldId} is {historyState}, so it can not be migrated": "History state of custom field {customFieldId} is {historyState}, so it can not be migrated",
+    "Custom field {customFieldId} is not migrated to V2 storage schema yet, can not migrate its history": "Custom field {customFieldId} is not migrated to V2 storage schema yet, can not migrate its history",
+    "Unable to find resource field for specified custom field {customFieldId}": "Unable to find resource field for specified custom field {customFieldId}",
+    "History API does not exist for specified custom field {customFieldId}": "History API does not exist for specified custom field {customFieldId}",
+    "Unable to find mapping for resource field {fieldName}": "Unable to find mapping for resource field {fieldName}"
 }
