@@ -4648,5 +4648,7 @@
     "The 'Follow activity' widget is no longer supported and will be removed in June'22. To continue to track activity on the items that you follow, please visit Notifications -> Following tab from the left menu instead.": "The 'Follow activity' widget is no longer supported and will be removed in June'22. To continue to track activity on the items that you follow, please visit Notifications -> Following tab from the left menu instead.",
     "History state of custom field is {historyState}, so it can not be migrated": "History state of custom field is {historyState}, so it can not be migrated",
     "Custom field is not migrated to V2 storage schema yet, can not migrate its history": "Custom field is not migrated to V2 storage schema yet, can not migrate its history",
-    "Custom field {customFieldId} does not exist": "Custom field {customFieldId} does not exist"
+    "Custom field {customFieldId} does not exist": "Custom field {customFieldId} does not exist",
+    "Menu item '{itemId}' does not exist.": "Menu item '{itemId}' does not exist.",
+    "You as the {itemType, select, view {View} group {Folder} customreport {Report} dashboard {Dashboard} miroboard {Miro Board} other {{itemType}} } owner or admin decide who can see this {itemType, select, view {View} group {Folder} customreport {Report} dashboard {Dashboard} miroboard {Miro Board} other {{itemType}} }.": "You as the {itemType, select, view {View} group {Folder} customreport {Report} dashboard {Dashboard} miroboard {Miro Board} other {{itemType}} } owner or admin decide who can see this {itemType, select, view {View} group {Folder} customreport {Report} dashboard {Dashboard} miroboard {Miro Board} other {{itemType}} }."
 }
