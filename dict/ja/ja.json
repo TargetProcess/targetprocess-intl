@@ -4659,5 +4659,6 @@
     "Required Claim To Authenticate User In Service Desk": "Required Claim To Authenticate User In Service Desk",
     "Is User Provisioning In Service Desk Enabled": "Is User Provisioning In Service Desk Enabled",
     "Only {usersCount} results are shown here.": "Only {usersCount} results are shown here.",
-    "Please refine your search criteria to get more.": "Please refine your search criteria to get more."
+    "Please refine your search criteria to get more.": "Please refine your search criteria to get more.",
+    "The 'Follow activity' widget is no longer supported and can be deleted. To continue to track activity on the items that you follow, please visit Notifications -> Following tab from the left menu.": "The 'Follow activity' widget is no longer supported and can be deleted. To continue to track activity on the items that you follow, please visit Notifications -> Following tab from the left menu."
 }
