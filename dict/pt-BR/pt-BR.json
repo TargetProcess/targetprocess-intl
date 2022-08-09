@@ -4662,5 +4662,8 @@
     "Please refine your search criteria to get more.": "Please refine your search criteria to get more.",
     "The 'Follow activity' widget is no longer supported and can be deleted. To continue to track activity on the items that you follow, please visit Notifications -> Following tab from the left menu.": "The 'Follow activity' widget is no longer supported and can be deleted. To continue to track activity on the items that you follow, please visit Notifications -> Following tab from the left menu.",
     "User types can be managed via Frontdoor interface only. If you want to update user type, please contact your administrator.": "User types can be managed via Frontdoor interface only. If you want to update user type, please contact your administrator.",
-    "Only {itemsCount} results are shown here.": "Only {itemsCount} results are shown here."
+    "Only {itemsCount} results are shown here.": "Only {itemsCount} results are shown here.",
+    "Invalid empty selector '{selector}' for aggregation '{aggregationId}'.": "Invalid empty selector '{selector}' for aggregation '{aggregationId}'.",
+    "Invalid aggregation kind '{aggregationKind}' for aggregation '{aggregationId}'.": "Invalid aggregation kind '{aggregationKind}' for aggregation '{aggregationId}'.",
+    "Invalid selector '{selector}' for aggregation '{aggregationId}'. Selector type {selectorType} is not in set of supported types {supportedTypes}": "Invalid selector '{selector}' for aggregation '{aggregationId}'. Selector type {selectorType} is not in set of supported types {supportedTypes}"
 }
