@@ -4694,5 +4694,6 @@
     "Requester Histories": "Requester Histories",
     "Is Changed Phone": "Is Changed Phone",
     "Is Changed Notes": "Is Changed Notes",
-    "Current Requester": "Current Requester"
+    "Current Requester": "Current Requester",
+    "{axisValueName} (custom)": "{axisValueName} (custom)"
 }
