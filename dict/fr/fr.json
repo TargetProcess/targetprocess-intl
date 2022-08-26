@@ -4697,5 +4697,6 @@
     "Current Requester": "Current Requester",
     "{axisValueName} (custom)": "{axisValueName} (custom)",
     "Comment with Id {commentId} not found.": "Comment with Id {commentId} not found.",
-    "copy link": "copy link"
+    "copy link": "copy link",
+    "Error happened while building the Quick Add form": "Error happened while building the Quick Add form"
 }
