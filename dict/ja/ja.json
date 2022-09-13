@@ -4704,5 +4704,7 @@
     "It is strongly recommended NOT to change Process for {projectsTerm}, as some data will be lost (custom fields, assignments, effort) and there will be significant slowness or unresponsiveness of your account (up to several hours depending on the {projectTerm} size).": "It is strongly recommended NOT to change Process for {projectsTerm}, as some data will be lost (custom fields, assignments, effort) and there will be significant slowness or unresponsiveness of your account (up to several hours depending on the {projectTerm} size).",
     "Learn more about this at:": "Learn more about this at:",
     "How to change a Process and a Workflow for my {projectTerm} with minimal damage?": "How to change a Process and a Workflow for my {projectTerm} with minimal damage?",
-    "type {ConfirmationWord}": "type {ConfirmationWord}"
+    "type {ConfirmationWord}": "type {ConfirmationWord}",
+    "Could not find method with name {methodName} and return type {returnType}.": "Could not find method with name {methodName} and return type {returnType}.",
+    "Entity '{entity}' doesn't allow to set extendable fields": "Entity '{entity}' doesn't allow to set extendable fields"
 }
