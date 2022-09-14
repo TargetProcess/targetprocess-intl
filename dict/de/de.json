@@ -4706,5 +4706,6 @@
     "How to change a Process and a Workflow for my {projectTerm} with minimal damage?": "How to change a Process and a Workflow for my {projectTerm} with minimal damage?",
     "type {ConfirmationWord}": "type {ConfirmationWord}",
     "Could not find method with name {methodName} and return type {returnType}.": "Could not find method with name {methodName} and return type {returnType}.",
-    "Entity '{entity}' doesn't allow to set extendable fields": "Entity '{entity}' doesn't allow to set extendable fields"
+    "Entity '{entity}' doesn't allow to set extendable fields": "Entity '{entity}' doesn't allow to set extendable fields",
+    "Original custom field name should be equal to the name in the lower case when comparing using the current database collation. The custom field '{customFieldName}'.": "Original custom field name should be equal to the name in the lower case when comparing using the current database collation. The custom field '{customFieldName}'."
 }
