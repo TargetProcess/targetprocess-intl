@@ -4708,5 +4708,6 @@
     "Could not find method with name {methodName} and return type {returnType}.": "Could not find method with name {methodName} and return type {returnType}.",
     "Entity '{entity}' doesn't allow to set extendable fields": "Entity '{entity}' doesn't allow to set extendable fields",
     "Original custom field name should be equal to the name in the lower case when comparing using the current database collation. The custom field '{customFieldName}'.": "Original custom field name should be equal to the name in the lower case when comparing using the current database collation. The custom field '{customFieldName}'.",
-    "Your account is in read-only mode. Please contact your Targetprocess Administrator.": "Your account is in read-only mode. Please contact your Targetprocess Administrator."
+    "Your account is in read-only mode. Please contact your Targetprocess Administrator.": "Your account is in read-only mode. Please contact your Targetprocess Administrator.",
+    "Is Empty": "Is Empty"
 }
